@@ -19,7 +19,7 @@ The goal of this project is to:
 7. Apply CKY Parsing with Viterbi Algorithm
 8. Export Grammar with pickle
 
-## 🛠Key Features
+## Key Features
 - ATIS Treebank Training: Utilizes train.trees.pre.unk for supervised grammar induction
 - Chomsky Normal Form: Transforms tree structures to fit CKY constraints
 - Grammar Induction: Generates a PCFG using frequency-based production rule probabilities
