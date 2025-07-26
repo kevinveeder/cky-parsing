@@ -31,5 +31,4 @@ This project uses a jupyter notebook. Make sure to have these installed before o
 - Python 3.7 or above
 - Jupyter Notebooks
 
-**If you don't have the above installed, I've also included a pdf copy of the file**
 
