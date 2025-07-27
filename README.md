@@ -1,7 +1,7 @@
 # Syntax Tree Parsing using the CKY Algorithm
 This project implements a syntactic parser using the CKY (Cocke–Kasami–Younger) algorithm trained on the ATIS (Air Travel Information System) dataset from the Penn Treebank. It applies key concepts in Natural Language Processing (NLP) such as grammar induction, Chomsky Normal Form (CNF) conversion, and probabilistic parsing using NLTK.
 
-## 📚 Overview
+## Overview
 The goal of this project is to:
 - Parse real-world flight-related queries using a context-free grammar
 - Convert syntax trees to Chomsky Normal Form
